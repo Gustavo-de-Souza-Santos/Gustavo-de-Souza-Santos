@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gustavo Souza 👾
+# Gustavo Souza Santos 👾
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Pentester;Bug+Bounty+Hunter;Web+Security+Enthusiast;Always+Learning+Something+New" />
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-🔐 Estudante do 3º ano do Ensino Médio
+🔐 Estudante do 3º ano do Ensino Médio Tecnico
 
 💻 Focado em Pentest, Bug Bounty e Segurança Web
 
