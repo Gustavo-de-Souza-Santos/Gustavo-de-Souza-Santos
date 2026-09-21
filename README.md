@@ -78,10 +78,6 @@
 
 ## 🌐 Contato
 
-💼 LinkedIn
-
-[www.linkedin.com/in/gustavo-de-souza-santos-1a6997288](http://www.linkedin.com/in/gustavo-de-souza-santos-1a6997288)
-
 🎯 TryHackMe
 
 [www.tryhackme.com/p/Darkuser709](http://www.tryhackme.com/p/Darkuser709)
